@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-<!--
-**superrrk/superrrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- **superrrk/superrrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+-->
 
 - 🔭 I’m currently working on ... CodeChica++
 - 🌱 I’m currently learning ... GitHub :P
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <p><a href="https://www.linkedin.com/in/kelly-truong-78a1551b7/">LinkedIn</a><p>
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ... My favorite video game is Counter-Strike Global-Offensive!
--->
+
