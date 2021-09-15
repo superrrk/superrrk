@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <p><a href="https://www.linkedin.com/in/kelly-truong-78a1551b7/" target="_blank">LinkedIn</a><p>
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ... My favorite video game is Counter-Strike Global-Offensive.
+<br>
 💻 🖥️ 💻 🖥️ 💻 🖥️ 💻 🖥️ 💻 🖥️ 💻 🖥️ 💻 🖥️ 
