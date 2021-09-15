@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 
 -->
 💻 🖥️ 💻 🖥️ 💻 🖥️ 💻 🖥️ 💻 🖥️ 💻 🖥️ 💻 🖥️ 
+<br>
 - 🔭 I’m currently working on ... CodeChica++
 - 🌱 I’m currently learning ... GitHub :P
 - 👯 I’m looking to collaborate on ... website building, customization, interaction - developing a dynamic website!
