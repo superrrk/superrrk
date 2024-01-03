@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Kelly!
+### Hello 🤓👋 My name is Kelly! (ktmoney, kelly jelly)
 
 
 <!-- **superrrk/superrrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
