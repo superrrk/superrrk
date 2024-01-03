@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... building websites with a public domain and learning Python!
 - 💬 Ask me about ... programs I've done before CodeChica++, Kode w/ Klossy, Quantum Computing course with IBM
 - 💌 How to reach me: ⤵️
-- <ul>
+<ul>
 <li><a href="https://www.linkedin.com/in/kellybtruong/" target="_blank">LinkedIn</a></li>
 <li><a href="https://www.youtube.com/channel/UCn6vfFkcZA4UfGCHtR7iX2g" target="_blank">Youtube</a></li>
 </ul>
