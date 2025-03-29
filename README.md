@@ -14,5 +14,4 @@ the magic happens here.  ⸜(｡˃ ᵕ ˂ )⸝♡
 <br>
 ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖
 <ul><li><a href="https://www.linkedin.com/in/kellybtruong/" target="_blank">LinkedIn</a></li>
-<li><a href="https://www.youtube.com/channel/UCn6vfFkcZA4UfGCHtR7iX2g" target="_blank">Youtube</a></li></ul>
 
