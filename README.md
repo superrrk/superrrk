@@ -11,10 +11,17 @@
 <h2>Software Development Projects</h2>
 <ul>
 
-  <li>
-    <strong>Interactive Portfolio Opitmizer - <i> Python, HTML5, CSS</i></strong>
+ <li>
+    <strong> Personal Website - <i> React, HTML, SCSS </i></strong>
     <ul>
-      <li><a href="https://github.com/juancastillo346/Password-Manager" target="_blank">Portfolio Optimizer</a></li>
+      <li><a href="https://github.com/superrrk/portfolio-kelly" target="_blank">Portfolio Website</a></li>
+    </ul>
+  </li>
+  
+  <li>
+    <strong>Interactive Portfolio Optimizer - <i> Python, HTML5, CSS</i></strong>
+    <ul>
+      <li><a href="https://github.com/superrrk/portfolio-optimizer" target="_blank">Portfolio Optimizer</a></li>
     </ul>
   </li>
   
