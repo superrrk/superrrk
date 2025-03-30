@@ -3,7 +3,7 @@
 <!-- **superrrk/superrrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h3>Sophomore, CS @ Fu Foundation School of Engineering and Applied Science, Columbia University </h3>
-👩🏻‍💻 I’m currently working on quantum optimization alongside Strangeworks & Bp in Houston. Interests in AI, entrepreneurship, and quantum computing.
+👩🏻‍💻 I’m currently working on quantum optimization alongside Strangeworks & Bp in Houston. Interests in AI, ML, and quantum computing.
 <br>
 🌱  I’m currently learning about AI, app, web, and game development. I am exploring multiple career paths that combine business and software engineering together. Whether it's Vietnamese, Korean, or Python, I love learning new languages (both world and coding ones)... let's talk!
 <br>
