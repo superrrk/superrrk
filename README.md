@@ -1,5 +1,5 @@
 <h1 align="center"> ⋆˚࿔ Kelly Truong 𝜗𝜚˚⋆</h1>
-<h2> about me ≽^- ˕ -^≼  </h2>
+
 <!-- **superrrk/superrrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h3>Sophomore, CS @ Fu Foundation School of Engineering and Applied Science, Columbia University </h3>
