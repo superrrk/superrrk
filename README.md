@@ -28,7 +28,7 @@
   <li>
     <strong> Object Recognition & Image Detection - <i>Python, OpenCV</i></strong>
     <ul>
-      <li><a href="https://github.com/superrrk/portfolio-kelly" target="_blank">Object Recongition</a></li>
+      <li><a href="https://github.com/superrrk/object-detection" target="_blank">Object Recongition</a></li>
     </ul>
   </li>
 
