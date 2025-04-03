@@ -19,14 +19,14 @@
   </li>
   
   <li>
-    <strong>Interactive Portfolio Optimizer (Full-Stack) - <i> Python, HTML5, CSS</i></strong>
+    <strong>Interactive Portfolio Optimizer (Full-Stack) - <i> Python, Flask, HTML</i></strong>
     <ul>
       <li><a href="https://github.com/superrrk/portfolio-optimizer" target="_blank">Portfolio Optimizer</a></li>
     </ul>
   </li>
   
   <li>
-    <strong> Fake Image Detection (Neural Network) - <i>Python, OpenCV</i></strong>
+    <strong> Fake Image Detection (Neural Network) - <i>Python, PyTorch, React </i></strong>
     <ul>
       <li><a href="https://github.com/superrrk/image-detector" target="_blank">CNN Image Recognition</a></li>
     </ul>
