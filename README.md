@@ -12,23 +12,23 @@
 <ul>
 
  <li>
-    <strong> Personal Website - <i> React, HTML, SCSS </i></strong>
+    <strong> Personal Website (Front-End) - <i> React, HTML, SCSS </i></strong>
     <ul>
       <li><a href="https://github.com/superrrk/portfolio-kelly" target="_blank">Portfolio Website</a></li>
     </ul>
   </li>
   
   <li>
-    <strong>Interactive Portfolio Optimizer - <i> Python, HTML5, CSS</i></strong>
+    <strong>Interactive Portfolio Optimizer (Full-Stack) - <i> Python, HTML5, CSS</i></strong>
     <ul>
       <li><a href="https://github.com/superrrk/portfolio-optimizer" target="_blank">Portfolio Optimizer</a></li>
     </ul>
   </li>
   
   <li>
-    <strong> Object Recognition & Image Detection - <i>Python, OpenCV</i></strong>
+    <strong> Fake Image Detection (Neural Network) - <i>Python, OpenCV</i></strong>
     <ul>
-      <li><a href="https://github.com/superrrk/image-recognition" target="_blank">Image Recognition</a></li>
+      <li><a href="https://github.com/superrrk/image-detector" target="_blank">CNN Image Recognition</a></li>
     </ul>
   </li>
 
