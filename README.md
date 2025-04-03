@@ -26,9 +26,9 @@
   </li>
   
   <li>
-    <strong> Fake Image Detection (Neural Network) - <i>Python, PyTorch, React </i></strong>
+    <strong> Fake Image Detector (Neural Network) - <i>Python, PyTorch, React </i></strong>
     <ul>
-      <li><a href="https://github.com/superrrk/image-detector" target="_blank">CNN Image Recognition</a></li>
+      <li><a href="https://github.com/superrrk/image-detector" target="_blank">Image Detector</a></li>
     </ul>
   </li>
 
