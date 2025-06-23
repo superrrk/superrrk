@@ -5,7 +5,7 @@
 <h3>Sophomore, CS @ Fu Foundation School of Engineering and Applied Science, Columbia University </h3>
 👩🏻‍💻 Interests in AI, ML, and quantum computing.
 <br>
-🌱  I’m currently learning about AI, app, web, and game development. I am exploring multiple career paths that combine business and software engineering together. Whether it's Vietnamese, Korean, or Python, I love learning new languages (both world and coding ones)... let's talk!
+🌱  I’m currently learning about ML, Android, and full-stack development in Python. I am exploring multiple career paths that combine business and software engineering together. Whether it's Vietnamese, Korean, or Python, I love learning new languages (both world and coding ones)... let's talk!
 <br>
 
 <h2>Software Development Projects</h2>
