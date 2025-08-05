@@ -8,38 +8,39 @@
 🌱  I’m currently learning about ML, Android, and full-stack development in Python. I am exploring multiple career paths that combine business and software engineering together. Whether it's Vietnamese, Korean, or Python, I love learning new languages (both world and coding ones)... let's talk!
 <br>
 
-<h2>Software Development Projects</h2>
+<h2>📁 Software Development Projects</h2>
+
+<p><strong>Portfolio:</strong> <a href="https://kellytruong.netlify.app/" target="_blank">kellytruong.netlify.app</a></p>
+
+<h3>Individual Projects</h3>
 <ul>
-
- <li>
-    <strong> Personal Website (Front-End) - <i> React, HTML, SCSS </i></strong>
-    <ul>
-      <li><a href="https://github.com/superrrk/portfolio-kelly" target="_blank">Portfolio Website</a></li>
-    </ul>
-  </li>
-  
   <li>
-    <strong>Interactive Portfolio Optimizer (Full-Stack) - <i> Python, Flask, HTML</i></strong>
-    <ul>
-      <li><a href="https://github.com/superrrk/portfolio-optimizer" target="_blank">Portfolio Optimizer</a></li>
-    </ul>
+    <strong>Personal Website</strong> – <em>React, HTML, SCSS</em><br>
+    <a href="https://github.com/superrrk/portfolio-kelly" target="_blank">GitHub Repo</a> | 
+    <a href="https://kellytruong.netlify.app/" target="_blank">Live Site</a>
   </li>
-  
   <li>
-    <strong> Fake Image Detector (Neural Network) - <i>Python, PyTorch, React </i></strong>
-    <ul>
-      <li><a href="https://github.com/superrrk/image-detector" target="_blank">Image Detector</a></li>
-    </ul>
+    <strong>Interactive Portfolio Optimizer</strong> – <em>Python, Flask, HTML</em><br>
+    <a href="https://github.com/superrrk/portfolio-optimizer" target="_blank">GitHub Repo</a>
   </li>
-
   <li>
-    <strong> NekoTracker Nutrient Tracker - <i>Swift</i></strong>
-    <ul>
-      <li><a href="https://github.com/superrrk/NekoTracker" target="_blank">NekoTracker</a></li>
-    </ul>
+    <strong>Fake Image Detector</strong> – <em>Python, PyTorch, React</em><br>
+    <a href="https://github.com/superrrk/image-detector" target="_blank">GitHub Repo</a>
   </li>
-  
+  <li>
+    <strong>NekoTracker (iOS App)</strong> – <em>Swift</em><br>
+    <a href="https://github.com/superrrk/NekoTracker" target="_blank">GitHub Repo</a>
+  </li>
 </ul>
+
+<h3>Collaborative Projects</h3>
+<ul>
+  <li>
+    <strong>VSA Social Media App</strong> – <em>JavaScript, Next.js, Supabase</em><br>
+    <a href="https://github.com/tvytran/VSAWebsite" target="_blank">GitHub Repo</a>
+  </li>
+</ul>
+
 <h2>Languages and Tools:</h2>
 
 <p>
