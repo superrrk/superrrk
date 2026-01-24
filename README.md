@@ -28,6 +28,10 @@
     <a href="https://github.com/superrrk/image-detector" target="_blank">GitHub Repo</a>
   </li>
   <li>
+    <strong>Scrap (iOS App)</strong> – <em>Swift</em><br>
+    <a href="https://github.com/superrrk/ios101-capstone" target="_blank">GitHub Repo</a>
+  </li>
+  <li>
     <strong>NekoTracker (iOS App)</strong> – <em>Swift</em><br>
     <a href="https://github.com/superrrk/NekoTracker" target="_blank">GitHub Repo</a>
   </li>
